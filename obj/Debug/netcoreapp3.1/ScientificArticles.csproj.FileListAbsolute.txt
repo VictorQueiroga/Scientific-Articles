@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.exe
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.deps.json
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.runtimeconfig.json
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.dll
+C:\Users\Victor\source\repos\ScientificArticles\bin\Debug\netcoreapp3.1\ScientificArticles.pdb
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.dll
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.pdb
+C:\Users\Victor\source\repos\ScientificArticles\obj\Debug\netcoreapp3.1\ScientificArticles.genruntimeconfig.cache
